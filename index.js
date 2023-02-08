@@ -106,6 +106,7 @@ function destapar(id){
                 tarjeta2.disabled = false;
                 tarjetasDestapadas = 0;
             },800);
+            mostrarTiempo.innerHTML = `SOS UNA VERGA`;
         }
         
     }
